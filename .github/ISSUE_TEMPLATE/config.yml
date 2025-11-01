@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📖 Documentation
-    url: https://spicedblens.com/docs
+    url: https://www.spicedblens.com/docs
     about: Read the documentation and getting started guide
   - name: 💬 Discussions
     url: https://github.com/aiistic/spicedblens/discussions

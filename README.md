@@ -81,18 +81,18 @@ If you discover a security vulnerability, please **DO NOT** open a public issue.
 
 ## 📄 Documentation
 
-- **Website**: [https://spicedblens.com](https://spicedblens.com)
-- **Getting Started Guide**: [https://spicedblens.com/docs](https://spicedblens.com/docs)
-- **FAQ**: [https://spicedblens.com/faq](https://spicedblens.com/faq)
-- **Changelog**: [View Release Notes](https://spicedblens.com/changelog)
+- **Website**: [https://www.spicedblens.com](https://www.spicedblens.com)
+- **Getting Started Guide**: [https://www.spicedblens.com/docs](https://www.spicedblens.com/docs)
+- **FAQ**: [https://www.spicedblens.com/docs/faq](https://www.spicedblens.com/docs/faq)
+- **Changelog**: [View Release Notes](https://www.spicedblens.com/changelog)
 
 ---
 
 ## 💬 Community & Support
 
 - **[GitHub Discussions](https://github.com/aiistic/spicedblens/discussions)** - Ask questions and share tips
-- **[Documentation](https://spicedblens.com/docs)** - Getting started guides and tutorials
-- **[Website](https://spicedblens.com)** - Learn more about SpiceDBLens
+- **[Documentation](https://www.spicedblens.com/docs)** - Getting started guides and tutorials
+- **[Website](https://www.spicedblens.com)** - Learn more about SpiceDBLens
 
 ---
 
