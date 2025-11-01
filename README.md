@@ -71,13 +71,6 @@ SpiceDBLens is a desktop application for managing and visualizing [SpiceDB](http
 - 🎨 **Dark/Light Themes**: Comfortable viewing for any environment
 - 💾 **Import/Export**: Share schemas and relation data with your team
 
-### Tech Stack
-
-- Built with Electron, React, and TypeScript
-- Uses gRPC to connect to SpiceDB servers
-- Supports secure and insecure connections
-- Local-first: All data stored on your device
-
 ---
 
 ## 🔒 Security
