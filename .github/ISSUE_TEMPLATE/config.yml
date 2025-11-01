@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://spicedblens.com/docs
+    about: Read the documentation and getting started guide
+  - name: 💬 Discussions
+    url: https://github.com/aiistic/spicedblens/discussions
+    about: Ask questions and discuss with the community
+  - name: 🔒 Security Issue
+    url: mailto:security@aiistic.com
+    about: Report security vulnerabilities privately
+  - name: 💼 Commercial Support
+    url: mailto:support@aiistic.com
+    about: Get commercial support from Aiistic, Inc.
