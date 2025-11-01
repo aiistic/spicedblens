@@ -82,7 +82,7 @@ SpiceDBLens is a desktop application for managing and visualizing [SpiceDB](http
 
 ## 🔒 Security
 
-If you discover a security vulnerability, please **DO NOT** open a public issue. Email us at: **security@aiistic.com**
+If you discover a security vulnerability, please **DO NOT** open a public issue. Email us at: **security@spicedblens.com**
 
 ---
 
